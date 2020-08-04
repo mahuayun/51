@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.145:8000/51.ipa</string>
+					<string>https://github.com/mahuayun/51/raw/master/51.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
